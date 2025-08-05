@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 
-namespace ConsoleApp1
+namespace ConsoleApp1 
 {
     internal class FileReader
     {
@@ -53,4 +53,5 @@ namespace ConsoleApp1
         }
     }
 }
+
 
