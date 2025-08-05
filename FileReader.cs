@@ -34,7 +34,7 @@ namespace ConsoleApp1
 
                         string[] values = line.Split(',');
 
-                        //skip lines that don't have 3 values
+                        //skip lines that dont have 3 values
                         if (values.Length < 3) continue;
 
                         string player = values[0].Trim();
@@ -53,3 +53,4 @@ namespace ConsoleApp1
         }
     }
 }
+
